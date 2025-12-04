@@ -1,5 +1,6 @@
 # 🛒 Segmentation Client : Analyse de Clustering K-Means sur le Comportement Consommateur
 
+**Ezraidy soulaimane**  
 **Projet Data Science & Machine Learning**  
 **Année Universitaire 2025-2026**  
 **Thématique:** Segmentation Client (Clustering)

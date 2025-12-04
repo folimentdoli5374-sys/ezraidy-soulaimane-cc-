@@ -1,5 +1,5 @@
 # 🛒 Segmentation Client : Analyse de Clustering K-Means sur le Comportement Consommateur
-
+<img src="WhatsApp Image 2025-12-04 à 11.45.28_0da4a02f.jpg" style="height:264px;margin-right:232px"/>
 **Ezraidy soulaimane**  
 **Projet Data Science & Machine Learning**  
 **Année Universitaire 2025-2026**  
